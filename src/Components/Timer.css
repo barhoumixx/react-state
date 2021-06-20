@@ -1,0 +1,9 @@
+.timer{
+    width: 500px;
+    height: 40px;
+    margin: 80px auto;
+    background: #ee7777;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(5, 74, 77);
+    }
